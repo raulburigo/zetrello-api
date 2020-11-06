@@ -1,0 +1,1 @@
+web: gunicorn zetrello.wsgi
